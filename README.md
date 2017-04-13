@@ -34,3 +34,5 @@ Council's - Examination of the Presidency discussion paper: Discussion about the
 Council's 4th revised version: Removed 3rd party from Article 7 again; 
 - **22 March 2018 (7207/18)**\
 Council's 5th revised version: Direct marketing allowed for existing customers (Article 16 (2a))
+- **13 April 2018 (7820/18)**\
+Council's 5th revised version: Only simplifications and clarification improvements
