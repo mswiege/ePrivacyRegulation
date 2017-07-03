@@ -10,3 +10,5 @@ Council's progress report: (5) Rapporteur at parliament appointed, waiting for o
 Party on Telecommunications (WP TELE) examination of Article 1-8 since 8. Feb 2017 (8) request for more analysis (9) planned release date unrealistic (10) Concerns about scope, confidentiality of electronic communication, more exceptions for Art. 8 requested (11) objective to finalize first examination until end of June 2017
 - **19 May 2017 (9324/17)**\
 Council's progress report: (6) EDPS provided opinion with multiple concerns
+- **3 July 2017 (10866/17)**\
+Council's Presidency note: First examination finished, WP TELE devoted by new presidency to address open topics. Next focus is to provide clarity about the relation to the GDPR relation and Cookies. 
