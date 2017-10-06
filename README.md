@@ -14,3 +14,5 @@ Council's progress report: (6) EDPS provided opinion with multiple concerns
 Council's Presidency note: First examination finished, WP TELE devoted by new presidency to address open topics. Next focus is to provide clarity about the relation to the GDPR relation and Cookies. 
 - **8 September 2017 (11995/17)**\
 Council's 1st revised version: Article 9 renamed to Article 4a; Added consent exception for terminal access (Article 8 2.(b)); Article 17 deleted
+- **6 October 2017 (12955/17)**\
+Council's 2nd revised version (of Art. 1-5): Link to GDPR clarified; Clarify how ePR addresses legal persons; Confidentiality for machine-to-machine communication added (Article 5 2)
