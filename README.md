@@ -16,3 +16,5 @@ Council's Presidency note: First examination finished, WP TELE devoted by new pr
 Council's 1st revised version: Article 9 renamed to Article 4a; Added consent exception for terminal access (Article 8 2.(b)); Article 17 deleted
 - **6 October 2017 (12955/17)**\
 Council's 2nd revised version (of Art. 1-5): Link to GDPR clarified; Clarify how ePR addresses legal persons; Confidentiality for machine-to-machine communication added (Article 5 2)
+- **16 October 2017 (13217/17)**\
+Council's 2rd revised version (of Art. 12-20): Art. 13(3) added (emergency services); Marketing calls must be blockable; More tasks for the European Data Protection Board listed
