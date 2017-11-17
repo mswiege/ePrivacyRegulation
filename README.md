@@ -20,3 +20,5 @@ Council's 2nd revised version (of Art. 1-5): Link to GDPR clarified; Clarify how
 Council's 2rd revised version (of Art. 12-20): Art. 13(3) added (emergency services); Marketing calls must be blockable; More tasks for the European Data Protection Board listed
 - **8 November 2017 (14062/17)**\
 Council's progress report: Link to GDPR clarified; Consent of legal persons (more work needed); Why machine-to-machine communication was added; Listing in public directories clarified but question raised to exclude it since it is covered in GDPR; Blocking of direct marketing calls adapted but still contains feasibility concerns; Discussions needed about Article 6; Discussions needed about Article 8, a balance between privacy and business models needs to be found; Many questions and doubts about Article 10; Meeting between DAPIX - FoP/ WP TELE still needs to be analyzed and further discussed; Still many things to do;
+- **17 November 2017 (14374/17)**\
+Council's progress report: Small textual updates to previous report
