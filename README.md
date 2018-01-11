@@ -24,3 +24,5 @@ Council's progress report: Link to GDPR clarified; Consent of legal persons (mor
 Council's progress report: Small textual updates to previous report
 - **05 December 2017 (15333/17)**\
 Council's 3rd revised version: Mainly Anex changes; Article 6(3aa) added processing of message content for specific requested services (e.g. live translation) also for 3rd parties (4.)
+- **11 Januar 2018 (5165/18)**\
+Council's - Examination of the Presidency discussion paper: Questioning machine-to-machine communication topics; Should legitimite interest be added to Article 6? Questioning to clarify Article 8. Should operator be forced to offer their service without consent (cookie walls)?; Questioning Article 10.
