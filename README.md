@@ -28,3 +28,5 @@ Council's 3rd revised version: Mainly Anex changes; Article 6(3aa) added process
 Council's - Examination of the Presidency discussion paper: Questioning machine-to-machine communication topics; Should legitimite interest be added to Article 6? Questioning to clarify Article 8. Should operator be forced to offer their service without consent (cookie walls)?; Questioning Article 10.
 - **25 Januar 2018 (5569/18)**\
 Council's - Examination of the Presidency discussion paper: Request to continue discussion on Article 12 to 16
+- **7 February 2018 (5827/18)**\
+Council's - Examination of the Presidency discussion paper: Discussion about the results of DAPIX/WP TELE group; e.g. link between Article 2 and 11
