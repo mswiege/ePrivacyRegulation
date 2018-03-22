@@ -32,3 +32,5 @@ Council's - Examination of the Presidency discussion paper: Request to continue 
 Council's - Examination of the Presidency discussion paper: Discussion about the results of DAPIX/WP TELE group; e.g. link between Article 2 and 11
 - **7 March 2018 (6726/18)**\
 Council's 4th revised version: Removed 3rd party from Article 7 again; 
+- **22 March 2018 (7207/18)**\
+Council's 5th revised version: Direct marketing allowed for existing customers (Article 16 (2a))
