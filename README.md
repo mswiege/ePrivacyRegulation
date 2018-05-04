@@ -35,4 +35,6 @@ Council's 4th revised version: Removed 3rd party from Article 7 again;
 - **22 March 2018 (7207/18)**\
 Council's 5th revised version: Direct marketing allowed for existing customers (Article 16 (2a))
 - **13 April 2018 (7820/18)**\
-Council's 5th revised version: Only simplifications and clarification improvements
+Council's 6th revised version: Only simplifications and clarification improvements
+- **4 May 2018 (8537/18)**\
+Council's 7th revised version: Regulation does not apply to national security and defense; Consent exception removed for communication content (3a); Authorities get the right to impose fines (Article 18 (1aa)); Regulation applicable one year after it is passed (Article 29 (2));
