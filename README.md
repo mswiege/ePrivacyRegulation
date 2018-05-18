@@ -38,3 +38,5 @@ Council's 5th revised version: Direct marketing allowed for existing customers (
 Council's 6th revised version: Only simplifications and clarification improvements
 - **4 May 2018 (8537/18)**\
 Council's 7th revised version: Regulation does not apply to national security and defense; Consent exception removed for communication content (3a); Authorities get the right to impose fines (Article 18 (1aa)); Regulation applicable one year after it is passed (Article 29 (2));
+- **18 May 2018 (8917/18)**\
+Council's Progress report: We did a great job; GDPR relation still needs better wording; Article 6 needs finetuning; Article 6(2), (3a) [meta-data] remains most sensitive issue; Few still have doubts about the added value of Article 10; Article 2 and 11 need further work; Article 18 needs more work
