@@ -42,3 +42,5 @@ Council's 7th revised version: Regulation does not apply to national security an
 Council's Progress report: We did a great job; GDPR relation still needs better wording; Article 6 needs finetuning; Article 6(2), (3a) [meta-data] remains most sensitive issue; Few still have doubts about the added value of Article 10; Article 2 and 11 need further work; Article 18 needs more work
 - **25 May 2018 (9079/18)**\
 Council's Progress report: Changed "few still have doubts about ... Article 10" to "some still have doubts about ... Article 10"
+- **25 May 2018 (9079/18)**\
+Council's 8th revised version: Asking for further decision on article 6, 8 and 10; Minor changes;
