@@ -44,3 +44,5 @@ Council's Progress report: We did a great job; GDPR relation still needs better 
 Council's Progress report: Changed "few still have doubts about ... Article 10" to "some still have doubts about ... Article 10"
 - **25 May 2018 (9079/18)**\
 Council's 8th revised version: Asking for further decision on article 6, 8 and 10; Minor changes;
+- **10 July 2018 (10975/18)**\
+Council's 9th revised version: Changes for a more future proof Article 6; Deletion of Article 10; 
