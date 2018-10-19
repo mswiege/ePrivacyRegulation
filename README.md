@@ -48,3 +48,5 @@ Council's 8th revised version: Asking for further decision on article 6, 8 and 1
 Council's 9th revised version: Changes for a more future proof Article 6; Deletion of Article 10; 
 - **20 September 2018 (12336/18)**\
 Council's 10th revised version: Conditional access on consent (Article 8)
+- **19 October 2018 (13256/18)**\
+Council's 11th revised version: Monitoring responsibility for authorities removed; period until law is enforces extended from 12 to 24 months;
