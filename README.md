@@ -50,3 +50,5 @@ Council's 9th revised version: Changes for a more future proof Article 6; Deleti
 Council's 10th revised version: Conditional access on consent (Article 8)
 - **19 October 2018 (13256/18)**\
 Council's 11th revised version: Monitoring responsibility for authorities removed; period until law is enforces extended from 12 to 24 months;
+- **16 November 2018 (14268/18)**\
+Council's Progress report: Work done to make Article 6 balanced between data protection and online marketing done but need more work; Deletion of Article 10; Questioning ministers if bigger work is still needed or if it is close to be finised and can be discussed with the Parliament;
