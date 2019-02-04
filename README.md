@@ -54,3 +54,5 @@ Council's 11th revised version: Monitoring responsibility for authorities remove
 Council's Progress report: Work done to make Article 6 balanced between data protection and online marketing done but need more work; Deletion of Article 10; Questioning ministers if bigger work is still needed or if it is close to be finised and can be discussed with the Parliament;
 - **23 November 2018 (14491/18)**\
 Council's Progress report: Small corrections to previous report
+- **04 February 2019 (5934/19)**\
+Council's Discussion on possible compromise solutions: Proposal about machine-to-machine (IoT,...) topic; Proposal to add mentioning of children rights; Proposal to clarify the rules for national security and defense
