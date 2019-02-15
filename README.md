@@ -58,3 +58,5 @@ Council's Progress report: Small corrections to previous report
 Council's Discussion on possible compromise solutions: Proposal about machine-to-machine (IoT,...) topic; Proposal to add mentioning of children rights; Proposal to clarify the rules for national security and defense
 - **14 February 2019 (6358/19)**\
 Council's Discussions Paper: Some countries raise concerns about the Regulation harming fight against crime and terrorism (Vorratsdatenspeicherung)
+- **15 February 2019 (6467/19)**\
+Council's 12th revised version: Minor changes
