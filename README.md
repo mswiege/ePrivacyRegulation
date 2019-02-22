@@ -60,3 +60,5 @@ Council's Discussion on possible compromise solutions: Proposal about machine-to
 Council's Discussions Paper: Some countries raise concerns about the Regulation harming fight against crime and terrorism (Vorratsdatenspeicherung)
 - **15 February 2019 (6467/19)**\
 Council's 12th revised version: Minor changes
+- **22 February 2019 (6771/19)**\
+Council's 13th revised version: Clarified in Article 2 that the Regulation is not only about personal data, mainly in the Article 18/19
