@@ -62,3 +62,5 @@ Council's Discussions Paper: Some countries raise concerns about the Regulation 
 Council's 12th revised version: Minor changes
 - **22 February 2019 (6771/19)**\
 Council's 13th revised version: Clarified in Article 2 that the Regulation is not only about personal data, mainly in the Article 18/19
+- **13 March 2019 (7099/19)**\
+Council's 14th revised version: Minor changes, mainly in Article 18 and 19
