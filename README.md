@@ -68,3 +68,5 @@ Council's 14th revised version: Minor changes, mainly in Article 18 and 19
 Council's Progress report: How ePrivacy applies to new technolgies was discussed; Discussions about child abuse with no decision; Changes added for data retention for requirements of the Court of Justice but some further adjustments are requested; Most work was done for Article 18-20
 - **22 May 2019 (9351/19)**\
 Council's Progress report: Minor updates to previous report
+- **27 June 2019 (10753/19)**\
+Council's Discussions Paper: Finish presidency asks how to continue
