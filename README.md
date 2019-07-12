@@ -70,3 +70,5 @@ Council's Progress report: How ePrivacy applies to new technolgies was discussed
 Council's Progress report: Minor updates to previous report
 - **27 June 2019 (10753/19)**\
 Council's Discussions Paper: Finish presidency asks how to continue
+- **12 July 2019 (11001/19)**\
+Council's 15th revised version: Mainly changes to Anex
