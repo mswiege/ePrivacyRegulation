@@ -74,3 +74,6 @@ Council's Discussions Paper: Finish presidency asks how to continue
 Council's 15th revised version: Mainly changes to Anex
 - **26 July 2019 (11291/19)**\
 Council's 16th revised version: Article 6 restructured; Member states can create law to extend allowed metadata storage (Article 7); Added section to allow processing of communication for sole pupose of detecting child abuse cases; 
+- **18 September 2019 (12293/19)**\
+Council's 17th revised version: Proposed changes about child abuse topics (Article 6d);
+
