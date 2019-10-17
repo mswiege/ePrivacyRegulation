@@ -78,4 +78,5 @@ Council's 16th revised version: Article 6 restructured; Member states can create
 Council's 17th revised version: Proposed changes about child abuse topics (Article 6d);
 - **4 October 2019 (12633/19)**\
 Council's 18th revised version: Proposed Anex changes about child abuse topics; Accessing terminal data is allowed if needed for the requested service (Article 8);
-
+- **17 October 2019 (13080/19)**\
+Council's 19th revised version: In Article 2 it is made clear that the Regulation doesn't apply to activities regarding national security;
