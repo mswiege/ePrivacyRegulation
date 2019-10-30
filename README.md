@@ -80,3 +80,5 @@ Council's 17th revised version: Proposed changes about child abuse topics (Artic
 Council's 18th revised version: Proposed Anex changes about child abuse topics; Accessing terminal data is allowed if needed for the requested service (Article 8);
 - **17 October 2019 (13080/19)**\
 Council's 19th revised version: In Article 2 it is made clear that the Regulation doesn't apply to activities regarding national security;
+- **30 October 2019 (13632/19)**\
+Council's 20th revised version: The previous change in skope raised question, therefor new proposals; Mainly: Processing and storage is possible if needed for the service; 3rd party can also be the same telecommunication provider;
