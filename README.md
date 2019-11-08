@@ -82,3 +82,5 @@ Council's 18th revised version: Proposed Anex changes about child abuse topics; 
 Council's 19th revised version: In Article 2 it is made clear that the Regulation doesn't apply to activities regarding national security;
 - **30 October 2019 (13632/19)**\
 Council's 20th revised version: The previous change in skope raised question, therefor new proposals; Mainly: Processing and storage is possible if needed for the service; 3rd party can also be the same telecommunication provider;
+- **8 November 2019 (13808/19)**\
+Council's 21th revised version: Resulting from discussion of options in previous document change to 3rd party are made in Article 6; child abuse in Article 29 removed, it is covered in Article 6d
