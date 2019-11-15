@@ -84,3 +84,5 @@ Council's 19th revised version: In Article 2 it is made clear that the Regulatio
 Council's 20th revised version: The previous change in skope raised question, therefor new proposals; Mainly: Processing and storage is possible if needed for the service; 3rd party can also be the same telecommunication provider;
 - **8 November 2019 (13808/19)**\
 Council's 21th revised version: Resulting from discussion of options in previous document change to 3rd party are made in Article 6; child abuse in Article 29 removed, it is covered in Article 6d
+- **15 November 2019 (14054/19)**\
+Council's 22th revised version (with report): Delegates raised that terrorism should also be addressed, not only child abuse or that child abuse should not be covered in the regulation but somewhere else; Discussions about cookie walls and balancing business models have resulted only in Annex changes so far; Permanent Representatives Committee to confirm the made changes;
