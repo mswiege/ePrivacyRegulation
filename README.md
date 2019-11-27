@@ -88,3 +88,5 @@ Council's 21th revised version: Resulting from discussion of options in previous
 Council's 22th revised version (with report): Delegates raised that terrorism should also be addressed, not only child abuse or that child abuse should not be covered in the regulation but somewhere else; Discussions about cookie walls and balancing business models have resulted only in Annex changes so far; Permanent Representatives Committee to confirm the made changes;
 - **18 November 2019 (14068/19)**\
 Council's 22th revised version (with report): Just format changes to previous document
+- **27 November 2019 (14447/19)**\
+Council's Progress report: Same as previous version but with the conclusion that Permanent Representatives Committee didn't reach sufficient support; Back to TTE Council;
