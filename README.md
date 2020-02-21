@@ -90,3 +90,5 @@ Council's 22th revised version (with report): Delegates raised that terrorism sh
 Council's 22th revised version (with report): Just format changes to previous document
 - **27 November 2019 (14447/19)**\
 Council's Progress report: Same as previous version but with the conclusion that Permanent Representatives Committee didn't reach sufficient support; Back to TTE Council;
+- **21 February 2020 (5979/20)**\
+Council's 23th revised version: Discussions with WP TELE, Coreper and TTE Council have shown that the current text is not supported, therefor simplification and more allignment with GDPR are done; Article 6b and 8 now with "legitimate interest"; Now two TELE WP are devoted to examin the new proposals; 
