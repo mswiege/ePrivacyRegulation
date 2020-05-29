@@ -94,3 +94,5 @@ Council's Progress report: Same as previous version but with the conclusion that
 Council's 23th revised version: Discussions with WP TELE, Coreper and TTE Council have shown that the current text is not supported, therefor simplification and more allignment with GDPR are done; Article 6b and 8 now with "legitimate interest"; Now two TELE WP are devoted to examin the new proposals; 
 - **6 March 2020 (6543/20)**\
 Council's 24th revised version: Mainly Annex changes
+- **29 May 2020 (8204/20)**\
+Council's Progress report: Finished Presidency (end of last year) tried to find compromises but failed to find an agreement in the Coreper meeting in Dec. 2019; Therefor Croatian presidency did substantial changes to core Articles (introduced legitimate interest in Article 6&8); Legitimate interest can be advertisement but not for constructing profiles of the user; Member states have very mixed opinions regarding the legitimate interest; More clarification about services financed by advertisement requested; COVID-19 stopped further progress;
