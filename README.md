@@ -98,3 +98,5 @@ Council's 24th revised version: Mainly Annex changes
 Council's Progress report: Finished Presidency (end of last year) tried to find compromises but failed to find an agreement in the Coreper meeting in Dec. 2019; Therefor Croatian presidency did substantial changes to core Articles (introduced legitimate interest in Article 6&8); Legitimate interest can be advertisement but not for constructing profiles of the user; Member states have very mixed opinions regarding the legitimate interest; More clarification about services financed by advertisement requested; COVID-19 stopped further progress;
 - **06 July 2020 (9243/20)**\
 Council's Presidency note: Start of German Presidency with suggestions to add "vital interest" to Article 6 (because of Covid-19 situation) and questions the "legitimate interest" in Article 8
+- **04 November 2020 (9931/20)**\
+Council's 25th revised version: Removed "legitimate interest" from Article 6b and 8, removed the "child abuse" topic, removed Article 8 1a. regulating the forwarding to thrid-parties
