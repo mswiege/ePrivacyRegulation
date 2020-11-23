@@ -100,3 +100,5 @@ Council's Progress report: Finished Presidency (end of last year) tried to find 
 Council's Presidency note: Start of German Presidency with suggestions to add "vital interest" to Article 6 (because of Covid-19 situation) and questions the "legitimate interest" in Article 8
 - **04 November 2020 (9931/20)**\
 Council's 25th revised version: Removed "legitimate interest" from Article 6b and 8, removed the "child abuse" topic, removed Article 8 1a. regulating the forwarding to thrid-parties
+- **23 November 2020 (12891/20 and 13106/20)**\
+Council's Progress report: Summary of suggested changes and handover to Portuguese presidency
