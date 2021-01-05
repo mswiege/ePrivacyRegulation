@@ -102,3 +102,5 @@ Council's Presidency note: Start of German Presidency with suggestions to add "v
 Council's 25th revised version: Removed "legitimate interest" from Article 6b and 8, removed the "child abuse" topic, removed Article 8 1a. regulating the forwarding to thrid-parties
 - **23 November 2020 (12891/20 and 13106/20)**\
 Council's Progress report: Summary of suggested changes and handover to Portuguese presidency
+- **5 January 2021 (5008/21)**\
+Council's 26th revised version: Re-introduced Article 6c; Added more allowed exceptions to Article 8 (aligning with GDPR), a lot of restructuring
