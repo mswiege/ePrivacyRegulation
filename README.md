@@ -104,3 +104,6 @@ Council's 25th revised version: Removed "legitimate interest" from Article 6b an
 Council's Progress report: Summary of suggested changes and handover to Portuguese presidency
 - **5 January 2021 (5008/21)**\
 Council's 26th revised version: Re-introduced Article 6c; Added more allowed exceptions to Article 8 (aligning with GDPR), a lot of restructuring
+5008/21
+- **10 January 2021 (6087/21)**\
+Council's 27th revised version: *Final* version of the Council; added paragraph to 'consent' that user-given consent should overrule 'technical' consent; mainly just simplifications of paragraphs without major contextual changes
